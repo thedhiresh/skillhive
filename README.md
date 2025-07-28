@@ -150,3 +150,12 @@ Education is the foundation for personal and societal growth. SkillHive strives 
 
 ---
 
+## NOTE for trial 
+
+
+| # Roll | # email | # Password | 
+|--------|----------|-----------|
+|Super Admin | superadmin@example.com | password |
+|Admin | admin@example.com | password |
+|student | student@example.com | password |
+|=======|=======|=======|
