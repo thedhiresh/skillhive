@@ -1,55 +1,5 @@
 # 🚀 SkillHive - Bridging the Educational Gap
 
-## 🔥 Features
-
-**SkillHive** is a modern educational platform built for learners and administrators. It supports **multi-user access control**, allowing users to interact with the platform based on their roles.
-
----
-
-### 👥 User Types & Access Permissions
-
-| User Type         | Description                                                  | Access Level                                                                 |
-|------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|
-| **Super Admin**   | Platform Owner / Highest Privileges                         | ✅ Full Access:<br>• Create/Edit/Delete Courses<br>• Manage PDFs & Opportunities |
-| **Student**       | Registered & Logged-in Users                                | 🔓 Access to:<br>• View Courses<br>• Download PDFs<br>• Explore Opportunities |
-| **Guest (Non-Login)** | Unregistered or not logged-in users                   | 👁️ Access only to:<br>• Hero Section (Intro/Banner)<br>🔒 Restricted from all learning resources |
-
----
-
-### 📚 Content Sections
-
-#### 1. Courses
-- Curated content from platforms like **Google, AWS, Hack The Box, Cybrary**
-- Free and beginner-friendly
-- Supports completion tracking *(for logged-in students)*
-
-#### 2. Opportunities
-- Internship, scholarship, and skill-building listings
-- Updated regularly by **Super Admin**
-
-#### 3. PDF Section
-- Free downloadable PDFs of academic textbooks and learning guides
-- Categorized and searchable
-
----
-
-### 🔐 Role-Based Access Control (RBAC)
-
-| Feature              | Super Admin | Student | Guest |
-|---------------------|-------------|---------|-------|
-| View Hero Section   | ✅          | ✅      | ✅    |
-| View Courses        | ✅          | ✅      | ❌    |
-| Download PDFs       | ✅          | ✅      | ❌    |
-| View Opportunities  | ✅          | ✅      | ❌    |
-| Manage Courses      | ✅          | ❌      | ❌    |
-| Manage PDFs         | ✅          | ❌      | ❌    |
-| Manage Opportunities| ✅          | ❌      | ❌    |
-
----
-
-> 🚀 **Designed for Hackathons & Learning Communities**  
-> SkillHive enables role-based content delivery and management while maintaining a clean, responsive user experience.
-
 
 ## 💡 Basic Idea
 
@@ -105,6 +55,58 @@ The platform will be built as a responsive, web-based solution with the followin
 - **Live deployment** for public access and demo  
 
 ---
+
+## 🔥 Features
+
+**SkillHive** is a modern educational platform built for learners and administrators. It supports **multi-user access control**, allowing users to interact with the platform based on their roles.
+
+---
+
+### 👥 User Types & Access Permissions
+
+| User Type         | Description                                                  | Access Level                                                                 |
+|------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Super Admin**   | Platform Owner / Highest Privileges                         | ✅ Full Access:<br>• Create/Edit/Delete Courses<br>• Manage PDFs & Opportunities |
+| **Student**       | Registered & Logged-in Users                                | 🔓 Access to:<br>• View Courses<br>• Download PDFs<br>• Explore Opportunities |
+| **Guest (Non-Login)** | Unregistered or not logged-in users                   | 👁️ Access only to:<br>• Hero Section (Intro/Banner)<br>🔒 Restricted from all learning resources |
+
+---
+
+### 📚 Content Sections
+
+#### 1. Courses
+- Curated content from platforms like **Google, AWS, Hack The Box, Cybrary**
+- Free and beginner-friendly
+- Supports completion tracking *(for logged-in students)*
+
+#### 2. Opportunities
+- Internship, scholarship, and skill-building listings
+- Updated regularly by **Super Admin**
+
+#### 3. PDF Section
+- Free downloadable PDFs of academic textbooks and learning guides
+- Categorized and searchable
+
+---
+
+### 🔐 Role-Based Access Control (RBAC)
+
+| Feature              | Super Admin | Student | Guest |
+|---------------------|-------------|---------|-------|
+| View Hero Section   | ✅          | ✅      | ✅    |
+| View Courses        | ✅          | ✅      | ❌    |
+| Download PDFs       | ✅          | ✅      | ❌    |
+| View Opportunities  | ✅          | ✅      | ❌    |
+| Manage Courses      | ✅          | ❌      | ❌    |
+| Manage PDFs         | ✅          | ❌      | ❌    |
+| Manage Opportunities| ✅          | ❌      | ❌    |
+
+---
+
+> 🚀 **Designed for Hackathons & Learning Communities**  
+> SkillHive enables role-based content delivery and management while maintaining a clean, responsive user experience.
+
+
 
 ## 🎯 Expected Outcomes
 
