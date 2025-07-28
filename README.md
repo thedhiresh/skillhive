@@ -160,4 +160,4 @@ Education is the foundation for personal and societal growth. SkillHive strives 
 |student | student@example.com | password |
 
 
-### for more inquiry > dhiresh.info.np[dhiresh.info.np]
+### for more inquiry > [Portfolio](https://dhiresh.info.np "dhiresh.info.np for contact me").
